@@ -1,0 +1,18 @@
+C:\Users\P453055\Desktop\LInked List\LInked List\bin\Debug\LInked List.exe.config
+C:\Users\P453055\Desktop\LInked List\LInked List\bin\Debug\LInked List.exe
+C:\Users\P453055\Desktop\LInked List\LInked List\bin\Debug\LInked List.pdb
+C:\Users\P453055\Desktop\LInked List\LInked List\obj\Debug\LInked List.csprojResolveAssemblyReference.cache
+C:\Users\P453055\Desktop\LInked List\LInked List\obj\Debug\LInked_List.LinkedList.resources
+C:\Users\P453055\Desktop\LInked List\LInked List\obj\Debug\LInked_List.Properties.Resources.resources
+C:\Users\P453055\Desktop\LInked List\LInked List\obj\Debug\LInked List.csproj.GenerateResource.Cache
+C:\Users\P453055\Desktop\LInked List\LInked List\obj\Debug\LInked List.csproj.CoreCompileInputs.cache
+C:\Users\P453055\Desktop\LInked List\LInked List\obj\Debug\LInked List.exe
+C:\Users\P453055\Desktop\LInked List\LInked List\obj\Debug\LInked List.pdb
+D:\Software\Diploma\C# III\Session 1\LInked List\LInked List\bin\Debug\LInked List.exe.config
+D:\Software\Diploma\C# III\Session 1\LInked List\LInked List\bin\Debug\LInked List.exe
+D:\Software\Diploma\C# III\Session 1\LInked List\LInked List\bin\Debug\LInked List.pdb
+D:\Software\Diploma\C# III\Session 1\LInked List\LInked List\obj\Debug\LInked_List.LinkedList.resources
+D:\Software\Diploma\C# III\Session 1\LInked List\LInked List\obj\Debug\LInked_List.Properties.Resources.resources
+D:\Software\Diploma\C# III\Session 1\LInked List\LInked List\obj\Debug\LInked List.csproj.GenerateResource.cache
+D:\Software\Diploma\C# III\Session 1\LInked List\LInked List\obj\Debug\LInked List.exe
+D:\Software\Diploma\C# III\Session 1\LInked List\LInked List\obj\Debug\LInked List.pdb
