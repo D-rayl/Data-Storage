@@ -1,0 +1,12 @@
+C:\Users\P453055\Desktop\AlphaSort\AlphaSort\bin\Debug\AlphaSort.exe.config
+C:\Users\P453055\Desktop\AlphaSort\AlphaSort\bin\Debug\AlphaSort.exe
+C:\Users\P453055\Desktop\AlphaSort\AlphaSort\bin\Debug\AlphaSort.pdb
+C:\Users\P453055\Desktop\AlphaSort\AlphaSort\obj\Debug\AlphaSort.AlphaSort.resources
+C:\Users\P453055\Desktop\AlphaSort\AlphaSort\obj\Debug\AlphaSort.Properties.Resources.resources
+C:\Users\P453055\Desktop\AlphaSort\AlphaSort\obj\Debug\AlphaSort.csproj.GenerateResource.Cache
+C:\Users\P453055\Desktop\AlphaSort\AlphaSort\obj\Debug\AlphaSort.exe
+C:\Users\P453055\Desktop\AlphaSort\AlphaSort\obj\Debug\AlphaSort.pdb
+C:\Users\P453055\Desktop\AlphaSort\AlphaSort\obj\Debug\AlphaSort.csprojResolveAssemblyReference.cache
+E:\TAFE\C#\Practice\AlphaSort\AlphaSort\bin\Debug\AlphaSort.exe.config
+E:\TAFE\C#\Practice\AlphaSort\AlphaSort\obj\Debug\AlphaSort.exe
+E:\TAFE\C#\Practice\AlphaSort\AlphaSort\obj\Debug\AlphaSort.pdb
