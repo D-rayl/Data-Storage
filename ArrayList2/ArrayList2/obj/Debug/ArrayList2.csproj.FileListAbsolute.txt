@@ -1,0 +1,18 @@
+C:\Users\P453055\Desktop\ArrayList2\ArrayList2\bin\Debug\ArrayList2.exe.config
+C:\Users\P453055\Desktop\ArrayList2\ArrayList2\bin\Debug\ArrayList2.exe
+C:\Users\P453055\Desktop\ArrayList2\ArrayList2\bin\Debug\ArrayList2.pdb
+C:\Users\P453055\Desktop\ArrayList2\ArrayList2\obj\Debug\ArrayList2.csprojResolveAssemblyReference.cache
+C:\Users\P453055\Desktop\ArrayList2\ArrayList2\obj\Debug\ArrayList2.Form1.resources
+C:\Users\P453055\Desktop\ArrayList2\ArrayList2\obj\Debug\ArrayList2.Properties.Resources.resources
+C:\Users\P453055\Desktop\ArrayList2\ArrayList2\obj\Debug\ArrayList2.csproj.GenerateResource.Cache
+C:\Users\P453055\Desktop\ArrayList2\ArrayList2\obj\Debug\ArrayList2.exe
+C:\Users\P453055\Desktop\ArrayList2\ArrayList2\obj\Debug\ArrayList2.pdb
+D:\Software\Cert IV\C#\Term 1\Practice\ArrayList2\ArrayList2\bin\Debug\ArrayList2.exe.config
+D:\Software\Cert IV\C#\Term 1\Practice\ArrayList2\ArrayList2\bin\Debug\ArrayList2.exe
+D:\Software\Cert IV\C#\Term 1\Practice\ArrayList2\ArrayList2\bin\Debug\ArrayList2.pdb
+D:\Software\Cert IV\C#\Term 1\Practice\ArrayList2\ArrayList2\obj\Debug\ArrayList2.csprojAssemblyReference.cache
+D:\Software\Cert IV\C#\Term 1\Practice\ArrayList2\ArrayList2\obj\Debug\ArrayList2.Form1.resources
+D:\Software\Cert IV\C#\Term 1\Practice\ArrayList2\ArrayList2\obj\Debug\ArrayList2.Properties.Resources.resources
+D:\Software\Cert IV\C#\Term 1\Practice\ArrayList2\ArrayList2\obj\Debug\ArrayList2.csproj.GenerateResource.cache
+D:\Software\Cert IV\C#\Term 1\Practice\ArrayList2\ArrayList2\obj\Debug\ArrayList2.exe
+D:\Software\Cert IV\C#\Term 1\Practice\ArrayList2\ArrayList2\obj\Debug\ArrayList2.pdb
