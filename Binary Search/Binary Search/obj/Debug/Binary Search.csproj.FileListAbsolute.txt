@@ -1,0 +1,9 @@
+C:\Users\Daryl\Desktop\Binary Search\Binary Search\bin\Debug\Binary Search.exe.config
+C:\Users\Daryl\Desktop\Binary Search\Binary Search\bin\Debug\Binary Search.exe
+C:\Users\Daryl\Desktop\Binary Search\Binary Search\bin\Debug\Binary Search.pdb
+C:\Users\Daryl\Desktop\Binary Search\Binary Search\obj\Debug\Binary Search.csprojResolveAssemblyReference.cache
+C:\Users\Daryl\Desktop\Binary Search\Binary Search\obj\Debug\Binary_Search.Form1.resources
+C:\Users\Daryl\Desktop\Binary Search\Binary Search\obj\Debug\Binary_Search.Properties.Resources.resources
+C:\Users\Daryl\Desktop\Binary Search\Binary Search\obj\Debug\Binary Search.csproj.GenerateResource.Cache
+C:\Users\Daryl\Desktop\Binary Search\Binary Search\obj\Debug\Binary Search.exe
+C:\Users\Daryl\Desktop\Binary Search\Binary Search\obj\Debug\Binary Search.pdb
