@@ -1,0 +1,22 @@
+C:\Users\P453055\Desktop\BST\BST\bin\Debug\BST.exe.config
+C:\Users\P453055\Desktop\BST\BST\bin\Debug\BST.exe
+C:\Users\P453055\Desktop\BST\BST\bin\Debug\BST.pdb
+C:\Users\P453055\Desktop\BST\BST\obj\Debug\BST.csprojResolveAssemblyReference.cache
+C:\Users\P453055\Desktop\BST\BST\obj\Debug\BST.BST.resources
+C:\Users\P453055\Desktop\BST\BST\obj\Debug\BST.Properties.Resources.resources
+C:\Users\P453055\Desktop\BST\BST\obj\Debug\BST.csproj.GenerateResource.Cache
+C:\Users\P453055\Desktop\BST\BST\obj\Debug\BST.csproj.CoreCompileInputs.cache
+C:\Users\P453055\Desktop\BST\BST\obj\Debug\BST.exe
+C:\Users\P453055\Desktop\BST\BST\obj\Debug\BST.pdb
+F:\Diploma\C# III\Session 2\AT1.2\BST\BST\bin\Debug\BST.exe.config
+F:\Diploma\C# III\Session 2\AT1.2\BST\BST\obj\Debug\BST.exe
+F:\Diploma\C# III\Session 2\AT1.2\BST\BST\obj\Debug\BST.pdb
+C:\Users\Daryl\Desktop\Diploma\C# III\Session 2\AT1.2\BST\BST\bin\Debug\BST.exe.config
+C:\Users\Daryl\Desktop\Diploma\C# III\Session 2\AT1.2\BST\BST\obj\Debug\BST.exe
+C:\Users\Daryl\Desktop\Diploma\C# III\Session 2\AT1.2\BST\BST\obj\Debug\BST.pdb
+C:\Users\Daryl\Desktop\Diploma\C# III\Session 2\AT1.2\BST\BST\bin\Debug\BST.exe
+C:\Users\Daryl\Desktop\Diploma\C# III\Session 2\AT1.2\BST\BST\bin\Debug\BST.pdb
+C:\Users\Daryl\Desktop\Diploma\C# III\Session 2\AT1.2\BST\BST\obj\Debug\BST.csprojResolveAssemblyReference.cache
+C:\Users\Daryl\Desktop\Diploma\C# III\Session 2\AT1.2\BST\BST\obj\Debug\BST.BST.resources
+C:\Users\Daryl\Desktop\Diploma\C# III\Session 2\AT1.2\BST\BST\obj\Debug\BST.Properties.Resources.resources
+C:\Users\Daryl\Desktop\Diploma\C# III\Session 2\AT1.2\BST\BST\obj\Debug\BST.csproj.GenerateResource.Cache
