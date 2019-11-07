@@ -1,0 +1,9 @@
+C:\Users\P453055\Desktop\TheMatrix\TheMatrix\bin\Debug\TheMatrix.exe.config
+C:\Users\P453055\Desktop\TheMatrix\TheMatrix\bin\Debug\TheMatrix.exe
+C:\Users\P453055\Desktop\TheMatrix\TheMatrix\bin\Debug\TheMatrix.pdb
+C:\Users\P453055\Desktop\TheMatrix\TheMatrix\obj\Debug\TheMatrix.csproj.CoreCompileInputs.cache
+C:\Users\P453055\Desktop\TheMatrix\TheMatrix\obj\Debug\TheMatrix.exe
+C:\Users\P453055\Desktop\TheMatrix\TheMatrix\obj\Debug\TheMatrix.pdb
+C:\Users\Daryl\Desktop\Diploma\C# III\Session 4\TheMatrix\TheMatrix\bin\Debug\TheMatrix.exe.config
+C:\Users\Daryl\Desktop\Diploma\C# III\Session 4\TheMatrix\TheMatrix\obj\Debug\TheMatrix.exe
+C:\Users\Daryl\Desktop\Diploma\C# III\Session 4\TheMatrix\TheMatrix\obj\Debug\TheMatrix.pdb
