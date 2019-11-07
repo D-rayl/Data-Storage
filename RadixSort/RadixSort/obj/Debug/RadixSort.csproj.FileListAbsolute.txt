@@ -1,0 +1,10 @@
+C:\Users\P453055\source\repos\RadixSort\RadixSort\bin\Debug\RadixSort.exe.config
+C:\Users\P453055\source\repos\RadixSort\RadixSort\bin\Debug\RadixSort.exe
+C:\Users\P453055\source\repos\RadixSort\RadixSort\bin\Debug\RadixSort.pdb
+C:\Users\P453055\source\repos\RadixSort\RadixSort\obj\Debug\RadixSort.csprojResolveAssemblyReference.cache
+C:\Users\P453055\source\repos\RadixSort\RadixSort\obj\Debug\RadixSort.Radix.resources
+C:\Users\P453055\source\repos\RadixSort\RadixSort\obj\Debug\RadixSort.Properties.Resources.resources
+C:\Users\P453055\source\repos\RadixSort\RadixSort\obj\Debug\RadixSort.csproj.GenerateResource.Cache
+C:\Users\P453055\source\repos\RadixSort\RadixSort\obj\Debug\RadixSort.csproj.CoreCompileInputs.cache
+C:\Users\P453055\source\repos\RadixSort\RadixSort\obj\Debug\RadixSort.exe
+C:\Users\P453055\source\repos\RadixSort\RadixSort\obj\Debug\RadixSort.pdb
